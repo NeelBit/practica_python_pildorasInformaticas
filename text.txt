@@ -1,0 +1,4 @@
+Hola
+Esta linea ha sido incluida desde writelines 
+texto
+texto añadido

@@ -1,0 +1,2 @@
+Esta es la primer linea de texto del archivo archivo_texto 
+Esta es la segunda linea y hoy es 19/05/2020
